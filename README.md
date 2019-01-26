@@ -1,3 +1,3 @@
 # scm-jobs
  setup the remote push..
-Updating the readme file..
+testing to checkin code to hithub.....
